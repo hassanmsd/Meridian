@@ -1,0 +1,50 @@
+[
+  {
+    "prompt": "List the top AI research labs in 2025",
+    "response": "The leading AI research labs include OpenAI, DeepMind, Anthropic, Meta FAIR, and Microsoft Research. OpenAI continues to push the frontier of large language models and multimodal systems, while DeepMind focuses on reinforcement learning and protein-folding breakthroughs. Anthropic prioritizes interpretability and AI safety, Meta FAIR advances multimodal alignment, and Microsoft Research blends foundational research with enterprise applications. Together they set the pace for cutting-edge innovation and publish many of the field’s most-cited papers.",
+    "location": "US",
+    "date": "2025-06-15"
+  },
+  {
+    "prompt": "Summarize key crypto regulations in the EU",
+    "response": "The EU’s Markets in Crypto-Assets (MiCA) framework establishes uniform licensing for crypto-asset service providers (CASPs) across member states. It caps large euro-denominated stablecoins at €200 million of daily transactions unless backed by European-approved liquid reserves. MiCA also enforces stringent consumer-disclosure rules, travel-rule compliance for transfers above €1,000, and operational resilience standards akin to traditional financial institutions. These measures aim to reduce regulatory fragmentation while safeguarding users and financial stability.",
+    "location": "EU",
+    "date": "2025-06-17"
+  },
+  {
+    "prompt": "Best hiking trails near Tokyo",
+    "response": "Mount Takao offers well-maintained paths, sweeping views of Mount Fuji on clear days, and an easy train link from Shinjuku. Mount Mitake, reachable via the JR Ōme line and a short cable-car ride, features the ancient Musashi-Mitake shrine and lush cedar forests. Farther west, the Okutama region provides more rugged options such as the Lake Okutama loop and the climb to Mount Kumotori, Tokyo’s highest peak. All trails are serviced by lockers, kiosks, and onsen spots perfect for post-hike recovery.",
+    "location": "JP",
+    "date": "2025-06-20"
+  },
+  {
+    "prompt": "Top fintech trends in LATAM",
+    "response": "Embedded finance is weaving payments and lending directly into e-commerce platforms, enabling merchants to offer instant BNPL options at checkout. Regional neobanks like Nubank and Ualá continue to onboard millions of unbanked consumers with low-fee digital accounts. Several central banks, led by Brazil and Colombia, are piloting CBDCs for wholesale settlement. Cross-border stablecoin corridors are emerging, using USDC and local stablecoins to bypass FX frictions and reduce remittance costs by up to 60 percent.",
+    "location": "BR",
+    "date": "2025-06-22"
+  },
+  {
+    "prompt": "Explain the CRDT data-type",
+    "response": "Conflict-free Replicated Data Types (CRDTs) are data structures that allow concurrent, distributed updates without requiring coordination. Each replica can be modified independently, and thanks to mathematically defined merge functions, all replicas converge to the same state once updates are exchanged. CRDTs come in two flavors: operation-based (sending intents) and state-based (sending entire state). They are widely used in collaborative editors, offline-first mobile apps, and edge-deployed databases where low-latency local writes are critical.",
+    "location": "US",
+    "date": "2025-06-25"
+  },
+  {
+    "prompt": "What is zero-knowledge proof?",
+    "response": "A zero-knowledge proof (ZKP) is a cryptographic protocol enabling one party (the prover) to convince another (the verifier) that a statement is true without revealing any underlying information. ZK-SNARKs and ZK-STARKs are practical constructions that power privacy-preserving blockchains, rollups, and digital ID schemes. Typical use-cases include proving account balances, compliant KYC status, or execution of smart-contract logic while keeping data confidential, thereby enhancing privacy and scalability simultaneously.",
+    "location": "MT",
+    "date": "2025-06-27"
+  },
+  {
+    "prompt": "Generate a 7-day vegan meal plan",
+    "response": "Day 1: overnight oats with chia and berries; quinoa salad with chickpeas; tofu stir-fry over brown rice. Day 2: avocado toast with hemp seeds; lentil soup and whole-grain bread; tempeh tacos with mango salsa. Day 3: green smoothie bowl; falafel wrap with tahini; vegan chilli with cornbread. Day 4: banana-peanut butter oatmeal; Buddha bowl with roasted veggies; coconut curry with sweet potatoes. Day 5: chia pudding; sushi rolls with cucumber and tofu; black-bean burrito bowl. Day 6: berry smoothie; Mediterranean mezze plate; miso ramen with mushrooms. Day 7: almond-butter toast; tomato basil pasta; baked cauliflower steaks with chimichurri. Snacks include mixed nuts, hummus and carrots, or apple slices with almond butter.",
+    "location": "UK",
+    "date": "2025-06-29"
+  },
+  {
+    "prompt": "Current price of BTC",
+    "response": "As of 12:00 UTC on 30 June 2025, Bitcoin is trading at **$63,450**, reflecting a week-to-date gain of 4.2 percent. Market sentiment remains cautiously bullish amid lower-than-expected U.S. inflation data and renewed institutional inflows into spot BTC ETFs. 24-hour volume sits at $28 billion, and the Fear & Greed Index reads 66 (Greed). Key resistance lies at the April swing high of $65,000, while immediate support is noted around the 50-day moving average at $60,800.",
+    "location": "SG",
+    "date": "2025-06-30"
+  }
+]
